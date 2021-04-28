@@ -1,2 +1,2 @@
 # Result-Form
-It is a exam results database using JavaScript objects.
+It is an exam results database using JavaScript objects.
